@@ -1,0 +1,5 @@
+ImageNet: # https://www.kaggle.com/c/imagenet-object-localization-challenge
+  path: data/ImageNet
+
+COVIDx-CXR: # https://github.com/lindawangg/COVID-Net/blob/master/docs/COVIDx.md
+  path: data/COVIDx-CXR

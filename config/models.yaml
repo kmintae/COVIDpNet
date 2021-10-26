@@ -1,0 +1,11 @@
+PEPX-ResNet:
+  parameter:
+    PEPX:
+      projection: 2 # Assuming # of channels is even.
+      expansion: 3
+
+KAIST-DLNet:
+  parameter:
+
+CpNet:
+  parameter:
